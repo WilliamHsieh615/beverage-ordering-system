@@ -1,39 +1,15 @@
-<<<<<<< HEAD
-# BeverageOrderingSystem
+# Beverage OrderingS ystem
 
-This template should help get you started developing with Vue 3 in Vite.
+一個使用 Vue 3 (Options API) + Vite 開發的飲料點餐前端應用，包含商品列表、購物車管理與結帳功能。部署於 GitHub Pages 展示。
 
-## Recommended IDE Setup
+## 🔍 專案技術
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- **Vue 3 (Options API)**
+- **Vite**：快速開發環境與最小化打包
+- **Pinia**：輕量級狀態管理
+- **Vue Router**：頁面導覽
+- **Bootstrap 5**：快速搭建 UI
 
-## Customize configuration
+## 🚀 線上 Demo
 
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
-=======
-# BeverageOrderingSystem
->>>>>>> 7b4a361e9a15a703ca1158444d3e731e80ab8136
+👉 [點這裡查看 Demo](https://williamhsieh615.github.io/BeverageOrderingSystem/)
