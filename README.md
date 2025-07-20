@@ -1,8 +1,8 @@
-# Beverage OrderingS ystem
+# 飲料店訂餐系統 (Beverage Ordering System)
 
-一個使用 Vue 3 (Options API) + Vite 開發的飲料點餐前端應用，包含商品列表、購物車管理與結帳功能。部署於 GitHub Pages 展示。
+一個使用 Vue 3 (Options API) 與 Bootstrap 5，並透過 Vite 快速開發的飲料店點餐系統，包含商品列表、購物車管理與結帳功能。
 
-## 🔍 專案技術
+## 專案技術
 
 - **Vue 3 (Options API)**
 - **Vite**：快速開發環境與最小化打包
@@ -10,6 +10,6 @@
 - **Vue Router**：頁面導覽
 - **Bootstrap 5**：快速搭建 UI
 
-## 🚀 線上 Demo
+## 頁面展示
 
-👉 [點這裡查看 Demo](https://williamhsieh615.github.io/BeverageOrderingSystem/)
+👉 [作品連結](https://williamhsieh615.github.io/BeverageOrderingSystem/)
