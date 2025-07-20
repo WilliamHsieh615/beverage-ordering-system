@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BeverageOrderingSystem
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -33,3 +34,6 @@ npm run build
 ```sh
 npm run lint
 ```
+=======
+# BeverageOrderingSystem
+>>>>>>> 7b4a361e9a15a703ca1158444d3e731e80ab8136
