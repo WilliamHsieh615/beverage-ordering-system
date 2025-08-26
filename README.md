@@ -1,6 +1,6 @@
 # 飲料店訂餐系統 (Beverage Ordering System)
 
-🔗 [專案連結](https://williamhsieh615.github.io/BeverageOrderingSystem/)
+🔗 [專案連結](https://williamhsieh615.github.io/beverage-ordering-system/)
 
 ## 專案簡介
 
