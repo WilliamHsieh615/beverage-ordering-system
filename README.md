@@ -27,8 +27,8 @@
 
 2. clone 此專案到本機：
     ```bash
-    git clone https://github.com/WilliamHsieh615/BeverageOrderingSystem.git
-    cd BeverageOrderingSystem
+    git clone https://github.com/WilliamHsieh615/beverage-ordering-system.git
+    cd beverage-ordering-system
 
 3. 安裝相依套件：
     ```bash
